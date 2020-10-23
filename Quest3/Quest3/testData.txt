@@ -1,0 +1,4 @@
+ID, NAME, LEVEL, HEALTH, GOLD
+1, Mario, 20, 100, 2000
+2, Luigi, 19, 90, 500
+3, Peach, 15, 80, 100
